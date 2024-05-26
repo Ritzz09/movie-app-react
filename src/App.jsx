@@ -22,7 +22,7 @@ function App() {
       
       <div className="app">
         {/* <About/> */}
-        <h1 className="home_h1">SushMovies</h1>
+        <h1 className="home_h1">RitzMovies</h1>
 
         <Routes>
           <Route path="/" element={<Feed/>}></Route>
